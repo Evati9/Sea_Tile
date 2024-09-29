@@ -299,7 +299,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <objectgroup id="10" name="Tile_Wall_Sea">
+ <objectgroup id="10" name="Tile_Wall_Sea" visible="0">
   <object id="1" x="639.5" y="147.5" width="59.5" height="50"/>
   <object id="3" x="607.5" y="0.5" width="57.5" height="30.5"/>
   <object id="4" x="908" y="73.3333" width="50.3333" height="12"/>

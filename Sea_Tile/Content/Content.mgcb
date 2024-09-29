@@ -31,3 +31,25 @@
 /processor:TiledMapTilesetProcessor
 /build:Sea_Tile.tsx
 
+#begin Sea_Tile2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Sea_Tile2.png
+
+#begin Sea_Tile2.tsx
+/importer:TiledMapTilesetImporter
+/processor:TiledMapTilesetProcessor
+/build:Sea_Tile2.tsx
+
+#begin Tile_Sea.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:Tile_Sea.tmx
+
